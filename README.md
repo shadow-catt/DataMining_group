@@ -2,6 +2,9 @@
 The group project of data mining
 
 Techique:
-1. LightGBM
-2. XGBoost
-3. Deep Forest
+1. KNN
+2. ARIMA
+3. LightGBM
+4. XGBoost
+5. Random Forest
+6. Deep Forest
